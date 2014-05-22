@@ -1,0 +1,16 @@
+{
+  "name": "Porfolio",
+  "version": "0.0.1",
+  "author": "Parmar Jaysen",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "express3-handlebars": "*",
+    "dotenv": "*"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }  
+}
